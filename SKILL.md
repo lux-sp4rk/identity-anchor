@@ -8,7 +8,7 @@ version: 1.1.0
 
 Binds agent identity at key moments. Structural, detached, direct.
 
-## The Familiar Protocol
+## Identity Anchoring Protocol
 When this skill is triggered or loaded, you MUST perform the following checks:
 
 ### 1. Identity Verification

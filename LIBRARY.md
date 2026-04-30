@@ -1,5 +1,6 @@
-# LIBRARY.md: The Grimoire of Anchors
-This library provides pre-configured Anchor Strings for common use cases. Copy these into your `IDENTITY.md` to immediately manifest a specialized Familiar.
+# LIBRARY.md: Anchor Recipes
+
+This library provides pre-configured Anchor Strings for common agent roles. Copy into `IDENTITY.md` to activate the persona.
 
 | Role | Anchor String | The Vibe | Core Drive |
 |---|---|---|---|
